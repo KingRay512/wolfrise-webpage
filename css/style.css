@@ -15,6 +15,23 @@ body
     background-attachment: fixed;
 }
 
+.screenshotGallery
+{
+  padding: 2px;
+  margin: auto;
+  width: 24%;
+}
+
+.screenshotGallery:hover
+{
+  padding: 4px;
+}
+
+#scrn01
+{
+  /*width: 100%;*/
+}
+
 .MenuOption
 {
     padding: 8px;
